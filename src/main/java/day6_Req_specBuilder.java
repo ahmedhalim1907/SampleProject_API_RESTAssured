@@ -6,7 +6,6 @@ import static io.restassured.RestAssured.given;
 import static io.restassured.RestAssured.requestSpecification;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
 import org.testng.annotations.BeforeClass
-//hagar
 import io.restassured.builder.RequestSpecBuilder
 import io.restassured.specification.RequestSpecification
 
